@@ -1,6 +1,6 @@
 from pygame import *
 
-
+# Пробный комментарий
 # фоновая музыка
 mixer.init()
 mixer.music.load('space.ogg')
